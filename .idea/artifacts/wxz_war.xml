@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wxz:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wxz.war">
+      <element id="artifact" artifact-name="wxz:war exploded" />
+    </root>
+  </artifact>
+</component>
